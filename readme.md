@@ -2,6 +2,6 @@
 - I’m interested in informatics
 - I’m currently learning : electronics, informatic, electricity
 - I’m looking to collaborate on making Fedora the best Linux distro
-- How to reach me : discord.gg .escalope.nixiews
+- How to reach me : discord.gg nix.sh.tar.gz.zip.tar.bz2.rar
 - Pronouns : idc honestly
 - Fun fact : accidently blocked my BIOS so i had to reset it
